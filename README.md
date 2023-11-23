@@ -3,10 +3,10 @@
 - 🌱 Entusiasta da tecnologia sustentável
 - 👯 Aberto à colaborações!
 - - - - - - - - - - - - - - - - 
-Hello 👋
-🔭 Undergraduate student in Computer Science at the Federal Institute of Southeastern Minas Gerais - Rio Pomba Campus
-🌱 Enthusiast of sustainable technology
-👯 Open to collaborations!
+### Hello 👋
+- 🔭 Undergraduate student in Computer Science at the Federal Institute of Southeastern Minas Gerais - Rio Pomba Campus
+- 🌱 Enthusiast of sustainable technology
+- 👯 Open to collaborations!
 <!--
 Here are some ideas to get you started:
 
