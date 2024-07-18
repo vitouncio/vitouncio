@@ -1,9 +1,11 @@
 ### Olá 👋
+- ☕ Desenvolvedor Java
 - 🔭 Graduando em Ciência da Computação no Instituto Federal do Sudeste de Minas Gerais - Campus Rio Pomba
 - 🌱 Entusiasta da tecnologia sustentável
 - 👯 Aberto à colaborações!
 - - - - - - - - - - - - - - - - 
 ### Hello 👋
+- ☕ Java Developer
 - 🔭 Undergraduate student in Computer Science at the Federal Institute of Southeastern Minas Gerais - Rio Pomba Campus
 - 🌱 Enthusiast of sustainable technology
 - 👯 Open to collaborations!
