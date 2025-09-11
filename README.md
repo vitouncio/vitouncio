@@ -23,10 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/vitouncio/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitouncio&show_icons=true&theme=dark" />
 
-</a>
 <a href="https://github.com/vitouncio/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitouncio&layout=compact&theme=dark" />
 </a>
