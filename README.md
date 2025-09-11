@@ -5,7 +5,7 @@
 - 👯 Aberto à colaborações!
 - - - - - - - - - - - - - - - - 
 ### Hello 👋
-- ☕ Web Developer
+- ☕ Full Stack Developer
 - 🔭 Undergraduate student in Computer Science at the Federal Institute of Southeastern Minas Gerais - Rio Pomba Campus
 - 🌱 Enthusiast of sustainable technology
 - 👯 Open to collaborations!
