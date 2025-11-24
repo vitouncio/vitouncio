@@ -39,7 +39,6 @@
 </div>
 
 ## 📊 Github Stats
-
 <div style="display:flex; gap:8px; flex-wrap:wrap; margin-left: px">
     <a href="https://github.com/vitouncio/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=vitouncio&show_icons=true&theme=chartreuse-dark" alt="GitHub stats">
@@ -50,7 +49,7 @@
 </div>
 
 <div align="center">
-  <h2>Programming Languages</h2>
+<p><strong>Tools & Frameworks</strong></p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -60,7 +59,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
- <h2>Tools & Frameworks</h2>
+<p><strong>Tools & Frameworks</strong></p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
