@@ -21,28 +21,15 @@
 
   
 
-<div  style="font-family:'Poppins',sans-serif; line-height:1.6; font-size:1rem;">
-
-<p>
-
-Sou formado em Ciência da Computação, atuando como Desenvolvedor Full Stack e Diretor de Projetos em sistemas
-
-de gestão financeira para empresas Correspondentes Caixa Aqui e iniciativas freelance. Minha trajetória é marcada pelo
-
-aprendizado prático com PBL (Project Based Learning), permitindo aplicar e ampliar conhecimentos continuamente enquanto desenvolvo meus projetos.
-
-Apaixonado por música, natureza e robótica, já participei de projetos de desenvolvimento de sistemas de irrigação automatizado, durante minha graduação e, também, sou baterista de uma banda 🎼🤘🏽🤖.
-
-</p>
-
-<p>
-
-Tenho inglês como segunda língua e estou disponível para colaborar em oportunidades dentro e fora do país.
-
-</p>
-
+<div style="font-family:'Poppins',sans-serif; line-height:1.6; font-size:1rem;">
+    <p>
+        Sou formado em Ciência da Computação, atuando como Desenvolvedor Full Stack e Diretor de Projetos em sistemas de gestão financeira para Correspondentes Caixa Aqui e iniciativas freelance. Minha trajetória é pautada pelo aprendizado prático com PBL(Project Based Learning), permitindo aplicar e ampliar conhecimentos continuamente.
+        Apaixonado por música, natureza e robótica, já participei de projetos de desenvolvimento de sistemas de irrigação automatizado, durante minha graduação e, também, sou baterista de uma banda 🎼🤘🏽🤖.
+    </p>
+    <p>
+        Tenho inglês como segunda língua e estou disponível para colaborar em oportunidades dentro e fora do país.
+    </p>
 </div>
-
   
 
 ## 🔗 Connect with me
