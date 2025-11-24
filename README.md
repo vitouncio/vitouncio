@@ -1,8 +1,8 @@
 <div align="center">
-    <div style="display:flex; align-items:center; justify-content:center; gap:60px; flex-wrap:wrap;">
+    <div style="display:flex; align-items:center; justify-content:center; gap:16px; flex-wrap:wrap;">
         <img alt="working-ana" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG8wOXB3d3drc2h6djExNW9seWlnOGNxY2cxNms2OHFrZ2RmYmxpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" style="width:180px; border-radius:8px;" />
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=D1D1D1&width=600&height=100&lines=Hey+There!;My+name+is+Vitor+Pereira;I'm+a+Full+Stack+Developer;exploring+new+techs;and+solving+problems." alt="Typing SVG">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=D1D1D1&width=600&height=100&center=true&lines=Hey+There!;My+name+is+Vitor+Pereira;I'm+a+Full+Stack+Developer;exploring+new+techs;and+solving+problems." alt="Typing SVG">
         </a>
     </div>
 </div>
@@ -44,13 +44,14 @@
         <img src="https://github-readme-stats.vercel.app/api?username=vitouncio&show_icons=true&theme=chartreuse-dark" alt="GitHub stats">
     </a>
     <a href="https://github.com/vitouncio/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitouncio&hide_progress=true" alt="GitHub languages stats">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitouncio&layout=compact&theme=chartreuse-dark" alt="GitHub language stats"/>
     </a>
 </div>
 
+<h1></h1>
+
 <div align="center">
-<p><strong>Tools & Frameworks</strong></p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+<p align="center" style="font-size:1.6rem; font-weight:700;">Programming Languages</p>      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
     <img width="12" />
@@ -59,8 +60,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<p><strong>Tools & Frameworks</strong></p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+    <h1></h1>
+<p align="center" style="font-size:1.6rem; font-weight:700;">Programming Languages</p>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
     <img width="12" />
