@@ -7,7 +7,6 @@
     </div>
 </div>
 
----
 ## 📋 About me
 <div style="font-family:'Poppins',sans-serif; line-height:1.6; font-size:1rem;">
     <p>
@@ -20,7 +19,6 @@
         Tenho inglês como segunda língua e estou disponível para colaborar em oportunidades dentro e fora do país.
     </p>
 </div>
----
 
 ## 🔗 Connect with me
 <div style="display:flex; gap:8px; flex-wrap:wrap; margin-left: 30px">
@@ -38,7 +36,6 @@
     </a>
 </div>
 
----
 ## 📊 Github Stats
 
 <div style="display:flex; gap:8px; flex-wrap:wrap; margin-left: px">
@@ -49,9 +46,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitouncio&hide_progress=true" alt="GitHub languages stats">
     </a>
 </div>
-
----
-
 
 <div align="center">
   <h2>Programming Languages</h2>
