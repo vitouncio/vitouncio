@@ -11,7 +11,7 @@
 
 <div style="font-family:'Poppins',sans-serif; line-height:1.6; font-size:1rem;">
     <p>
-        Sou formado em Ciência da Computação, atuando como Desenvolvedor Full Stack e Diretor de Projetos em sistemas de gestão financeira para empresas Correspondentes Caixa Aqui e iniciativas freelance. Minha trajetória é pautada pelo aprendizado prático com PBL(Project Based Learning), permitindo aplicar e ampliar conhecimentos continuamente.
+        Sou formado em Ciência da Computação, atuando como Desenvolvedor Full Stack e Diretor de Projetos em sistemas de gestão financeira para Correspondentes Caixa Aqui e iniciativas freelance. Minha trajetória é pautada pelo aprendizado prático com PBL(Project Based Learning), permitindo aplicar e ampliar conhecimentos continuamente.
         Apaixonado por música, natureza e robótica, já participei de projetos de desenvolvimento de sistemas de irrigação automatizado, durante minha graduação e, também, sou baterista de uma banda 🎼🤘🏽🤖.
     </p>
     <p>
@@ -19,7 +19,7 @@
     </p>
     <hr />
     <p>
-        I hold a degree in Computer Science, working as a Full Stack Developer and Project Director on financial management systems for Correspondentes Caixa Aqui companies and freelance initiatives. My journey is driven by hands-on learning through Project Based Learning (PBL), allowing me to continuously apply and expand my knowledge.
+        I hold a degree in Computer Science, working as a Full Stack Developer and Project Director on financial management systems for Correspondentes Caixa Aqui and freelance initiatives. My journey is driven by hands-on learning through Project Based Learning (PBL), allowing me to continuously apply and expand my knowledge.
         Passionate about music, nature, and robotics, I have taken part in projects developing automated irrigation systems during my graduation, and I am also the drummer in a band 🎼🤘🏽🤖.
     </p>
     <p>
@@ -47,10 +47,10 @@
 ## 📊 Github Stats
 <div style="display:flex; gap:8px; flex-wrap:wrap; margin-left: px">
     <a href="https://github.com/vitouncio/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=vitouncio&show_icons=true&theme=chartreuse-dark" alt="GitHub stats">
+        <img src="https://acedev003-readme-stats.vercel.app/api?username=vitouncio&show_icons=true&theme=chartreuse-dark" alt="GitHub stats">
     </a>
     <a href="https://github.com/vitouncio/github-readme-stats">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitouncio&layout=compact&theme=chartreuse-dark" alt="GitHub language stats"/>
+         <img src="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=vitouncio&layout=compact&theme=chartreuse-dark" alt="GitHub language stats"/>
     </a>
 </div>
 
